@@ -1,4 +1,4 @@
-# Formação analista de Teste _Stefanini_
+# Formação analista de testes _Stefanini_
  Testes Automatizados Web
  
  A IDEA aqui usada foi **Eclipse** e o framework **Cucumber**
